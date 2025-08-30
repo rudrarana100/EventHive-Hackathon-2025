@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'mont';
+    src: url(fonts/Montserrat-Regular.ttf)
+}
+
+body::-webkit-scrollbar {
+    display: none; 
+}
